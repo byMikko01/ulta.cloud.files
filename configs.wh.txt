@@ -1,7 +1,7 @@
 #profile-title:Ulta VPN WHITELIST
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
-#announce: Используйте обход белых списков только при их активации. Не открывайте российские приложения с включенным белым списком (Whitelist), так как это может привести к массовой блокировке серверов.
+#announce: Используйте обход белых списков только при их активации. Не открывайте российские приложения с включенным белым списком (Whitelist), так как это может привести к массовой блокировке серверов.Все сервера взяты с открытых источников.
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #hide-settings: true
 vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#1925.%20VLESS%20%7C%20TG%3A%20%40wlrustg
